@@ -7,11 +7,11 @@
   
 ### 🧐 More About Me:
 
-- ⚙️ &nbsp; I'm a Mech Undergrad from Indian Institute of Engineering Science and Technology.
+- ⚙️ &nbsp; I'm a Mech Undergrad from **Indian Institute of Engineering Science and Technology**.
   
-- 🔭 &nbsp; I’m currently working on **cross-chain nft based game with on chain metadata generation**
+- 🔭 &nbsp; I’m currently working on **cross-chain nft based game with on chain metadata generation**.
   
-- 🌱 I’m currently learning **zkEVM(s)**
+- 🌱 I’m currently learning **zkEVM(s)**.
   
 - 📫 How to reach me **itsmenick30@gmail.com**
 
