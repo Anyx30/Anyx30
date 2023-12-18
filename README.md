@@ -4,6 +4,7 @@
 <p>I am a self-taught and passionate software developer exploring the decentralized universe and building cool, cutting-edge projects on the blockchain 🚀, both as a blockchain and backend developer with hands on frontend development skill. Academically being a mechanical engineer, I possess proficiency in MATLAB and Arduino along with a interest in data analysis.<p>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<br>
   
 ### 🧐 More About Me:
 
