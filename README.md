@@ -28,8 +28,6 @@
 <a href="https://linkedin.com/in/anikghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikghosh" height="30" width="40" /></a>
 <a href="https://discord.gg/anyx_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anyx_g" height="30" width="40" /></a>
 </p>
-<p>
   <p align='center' style='margin: 16px 4px 8px;'>
     <img src="dev-working_rounded.gif" alt="working developer">
-</p>
 
