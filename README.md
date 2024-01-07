@@ -2,7 +2,6 @@
 <h3 align="center"><em>Web3 Developer 👾 and De-Fi Enthusiast 💰</em></h3>
 
 <p>I am a self-taught and passionate software developer exploring the decentralized universe and building cool, cutting-edge projects on the blockchain 🚀, both as a blockchain and backend developer with hands on frontend development skill. Academically being a mechanical engineer, I possess proficiency in MATLAB and Arduino along with a interest in data analysis.<p>
-
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <br>
   
@@ -28,5 +27,9 @@
 <a href="https://twitter.com/itsmenick30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmenick30" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anikghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikghosh" height="30" width="40" /></a>
 <a href="https://discord.gg/anyx_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anyx_g" height="30" width="40" /></a>
+</p>
+<p>
+  <p align='center' style='margin: 16px 4px 8px;'>
+    <img src="dev-working_rounded.gif" alt="working developer">
 </p>
 
