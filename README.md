@@ -11,7 +11,7 @@
   
 - 🔭 &nbsp; I’m currently working on **cross-chain nft based game with on chain metadata generation**.
   
-- 🌱 I’m currently learning **zkEVM(s)**.
+- 🌱 I’m currently learning **Rust, zkEVM(s)**.
   
 - 📫 How to reach me **itsmenick30@gmail.com**
 
